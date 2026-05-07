@@ -1,0 +1,9 @@
+employee_id, department, salary, position, hire_date 
+E001,IT,5000,Developer,2020-01-15  
+E002,IT,6000,Senior Developer,2019-03-20  
+E003,HR,4000,HR Manager,2021-02-10  
+E004,Sales,4500,Sales Executive,2020-05-15  
+E005,Sales,5500,Sales Manager,2019-08-20 
+E006,Finance,5200,Accountant,2020-11-10  
+E007,IT,4800,Junior Developer,2022-01-05  
+E008,HR,3800,HR Assistant,2021-06-15

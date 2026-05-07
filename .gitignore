@@ -1,0 +1,4 @@
+input_data/employees_real.txt
+*.log
+outputData/
+*.jar
